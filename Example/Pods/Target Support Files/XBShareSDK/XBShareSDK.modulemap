@@ -1,0 +1,6 @@
+framework module XBShareSDK {
+  umbrella header "XBShareSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

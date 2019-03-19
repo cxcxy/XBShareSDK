@@ -1,0 +1,6 @@
+framework module Pods_XBShareSDK_Example {
+  umbrella header "Pods-XBShareSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
