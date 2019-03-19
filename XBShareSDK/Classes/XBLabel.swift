@@ -8,7 +8,7 @@
 import UIKit
 
 public class XBLabel: UILabel {
-    
+    var name: String?
     /*
     // Only override draw() if you perform custom drawing.
     // An empty implementation adversely affects performance during animation.

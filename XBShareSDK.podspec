@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XBShareSDK'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'This is of XBShareSDK.'
   s.swift_version = '4.0'
 # This description is used to generate tags and improve search results.
