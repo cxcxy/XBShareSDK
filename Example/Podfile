@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XBShareSDK_Example' do
+  pod 'XBShareSDK', :path => '../'
+
+  target 'XBShareSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
